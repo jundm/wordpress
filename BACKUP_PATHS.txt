@@ -1,0 +1,5 @@
+# Backup paths (set later)
+# - Mac mini (production):
+# - External disk (n):
+# Notes:
+# - Keep backup location separate from repo clone

@@ -1,0 +1,15 @@
+# env
+.env
+.env.*
+!.env.example
+!.env.deploy.example
+.env.deploy
+
+# volumes (keep scaffolding)
+/volumes/*
+!/volumes/.gitkeep
+!/volumes/db_data/.gitkeep
+!/volumes/wp_data/.gitkeep
+
+# logs
+*.log
