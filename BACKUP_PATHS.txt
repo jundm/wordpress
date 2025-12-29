@@ -1,5 +1,9 @@
 # Backup paths (set later)
 # - Mac mini (production):
+#   - DB: /Volumes/c/dev/wordpress_backup/db
+#   - wp-content: /Volumes/c/dev/wordpress_backup/wp-content
+# - Schedule: weekly
+# - Retention: keep max 8 weeks (2 months), delete older
 # - External disk (n):
 # Notes:
 # - Keep backup location separate from repo clone
